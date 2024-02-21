@@ -13,6 +13,9 @@ I am designing my personal webpage ~
   <img src="./src/Furry.png" alt="Furry-果糖" width="20%">
 </div>
 
+### Profile Views
+![](https://moe-counter.glitch.me/get/@Raxytw.github.readme)
+
 ---
 
 <picture>
