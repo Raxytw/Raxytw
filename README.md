@@ -9,7 +9,7 @@ I am an engineer currently learning web development, software development, and g
 I am designing my personal webpage ~  
 <https://Raxytw0425.web.app>
 
-<div align="right" class="r">
+<div align="right">
   <img src="./src/Furry.png" alt="Furry-果糖" width="20%">
 </div>
 
@@ -23,9 +23,3 @@ I am designing my personal webpage ~
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raxytw/Raxytw/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Raxytw/Raxytw/output/github-contribution-grid-snake.svg">
 </picture>
-
-<style>
-  .r {
-    position:absolute
-  }
-</style>
