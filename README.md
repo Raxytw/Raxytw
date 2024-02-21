@@ -9,8 +9,16 @@ I am an engineer currently learning web development, software development, and g
 I am designing my personal webpage ~  
 <https://Raxytw0425.web.app>
 
-<div align="center">
-  <img src="./src/Furry.png" alt="Furry-果糖" width="20%">
+<div>
+  <div align="left">
+    <img src="./src/Furry-left.png" alt="Furry-果糖" width="20%">
+  </div>
+  <div align="center">
+    <img src="./src/Furry-center.png" alt="Furry-果糖" width="20%">
+  </div>
+  <div align="right">
+    <img src="./src/Furry-right.png" alt="Furry-果糖" width="20%">
+  </div>
 </div>
 
 ### Profile Views
