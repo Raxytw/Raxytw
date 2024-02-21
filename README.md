@@ -9,6 +9,8 @@ I am an engineer currently learning web development, software development, and g
 I am designing my personal webpage ~  
 <https://Raxytw.web.app>
 
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raxytw/Raxytw/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raxytw/Raxytw/output/github-contribution-grid-snake.svg">
