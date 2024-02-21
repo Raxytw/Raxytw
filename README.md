@@ -9,7 +9,7 @@ I am an engineer currently learning web development, software development, and g
 I am designing my personal webpage ~  
 <https://Raxytw0425.web.app>
 
-<div align="right">
+<div align="center">
   <img src="./src/Furry.png" alt="Furry-果糖" width="20%">
 </div>
 
