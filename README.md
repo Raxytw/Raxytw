@@ -26,5 +26,3 @@ I am designing my personal webpage ~
 </picture>
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raxytw&layout=compact)
