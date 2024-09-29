@@ -1,9 +1,9 @@
 # Raxytw ✨
 哈囉,，各位好！ 👋  
-Hello, everyone!
+Hello, everynya!
 
-我是一名正在學習網頁、軟體、遊戲開發的高中生 📖  
-I am an engineer currently learning web development, software development, and game development
+我是一名網頁、軟體、遊戲開發的工程師 📖  
+I'm a web, software, and game development engineer
 
 我正在設計我的個人網頁 🔭  
 I am designing my personal webpage ~  
