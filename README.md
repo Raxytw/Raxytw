@@ -27,4 +27,4 @@ I am designing my personal webpage ~
 
 ---
 
-![我喜愛的語言](https://github-stats.ubrong.com/api/top-langs/?username=Raxytw&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raxytw&layout=compact)
