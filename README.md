@@ -24,3 +24,7 @@ I am designing my personal webpage ~
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raxytw/Raxytw/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Raxytw/Raxytw/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+![我喜愛的語言](https://github-stats.ubrong.com/api/top-langs/?username=Raxytw&layout=compact&theme=tokyonight)
