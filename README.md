@@ -9,15 +9,15 @@ I'm a web, software, and game development engineer
 I am designing my personal webpage ~  
 
 <div align="center">
-  <img src="./src/Furry-left.png" alt="Furry-果糖" width="20%">
-  <img src="./src/Furry-center.png" alt="Furry-果糖" width="20%">
-  <img src="./src/Furry-right.png" alt="Furry-果糖" width="20%">
+  <img src="./src/Furry-left.png" alt="Furry" width="20%">
+  <img src="./src/Furry-center.png" alt="Furry" width="20%">
+  <img src="./src/Furry-right.png" alt="Furry" width="20%">
 </div>
 
 ### Profile Views
 ![](https://moe-counter.glitch.me/get/@Raxytw.github.readme)
 
-### My skills
+### My Skills
 
 ---
 
