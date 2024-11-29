@@ -8,9 +8,9 @@ I'm a web, software, and game development engineer
 我正在設計我的個人網頁 🔭  
 I am designing my personal webpage ~  
 
-你可以買杯咖啡給我 :3
+你可以買杯咖啡給我 :3   
 You can buy me a coffee for me :3
-[](https://buymeacoffee.com/raxytw)
+[https://buymeacoffee.com/raxytw](https://buymeacoffee.com/raxytw)
 
 <div align="center">
   <img src="./src/Furry-left.png" alt="Furry" width="20%">
