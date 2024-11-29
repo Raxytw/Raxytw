@@ -17,7 +17,7 @@ I am designing my personal webpage ~
 ### Profile Views
 ![](https://moe-counter.glitch.me/get/@Raxytw.github.readme)
 
-### My Tech
+### My skills
 
 ---
 
