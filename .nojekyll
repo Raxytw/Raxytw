@@ -1,2 +1,0 @@
-- name: Create .nojekyll file
-  run: touch ./dist/.nojekyll
